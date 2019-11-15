@@ -1,6 +1,4 @@
-import utils
-import numpy as np
-from sklearn.linear_model import LogisticRegression
+
 import matplotlib.pyplot as plt
 import pickle
 
@@ -279,7 +277,6 @@ if __name__ == "__main__":
     plt.plot(x, F1)
     plt.show()
     '''
-
 
 
 
